@@ -1,5 +1,6 @@
 public class BubbleSort {
-    static void print(int a[])  //function to print the algo
+	
+    public static void print(int a[])  //function to print the algo
     {
         int n = a.length;
         int i;
